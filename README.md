@@ -12,7 +12,7 @@ Tech enthusiast passionate about learning and building cool stuff!
 - 🔹 Java, C, C++, Python, JavaScript
 - 🌐 HTML, CSS, SQL, Firebase, React.js, Flutter, Spring Boot
 - 🖥️ Windows, Linux
-- 🤖 Machine Learning, Keras, DSA
+- 🤖 Machine Learning, Keras, DSA, Sklearn, Jupyter Notebook, Matplotlib, NumPy, Pandas
 - 🎨 Canva, Figma, Photoshop
 
 ## 🏆 Certifications
